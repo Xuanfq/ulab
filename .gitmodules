@@ -1,0 +1,6 @@
+[submodule "tftp"]
+	path = tftp
+	url = https://github.com/Xuanfq/tftp.git
+[submodule "casa"]
+	path = casa
+	url = https://github.com/Xuanfq/casa.git
